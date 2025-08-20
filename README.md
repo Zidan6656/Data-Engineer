@@ -1,6 +1,6 @@
 # 🚀 Mini Project: Simple ETL with Google Colab & BigQuery
 
-**English |[Bahasa Indonesia](#-deskripsi-bahasa-indonesia)**
+**English**
 
 ---
 
@@ -28,7 +28,6 @@ The goal of this project is to practice fundamental data engineering skills, inc
 
 ## 📂 Files
 - `DQLab_ETL_Sederhana.ipynb` → Main notebook (Python + ETL pipeline)  
-- (optional) `DQLab_ETL_Sederhana.html` → HTML version of the notebook (easier to view without Colab)  
 
 ---
 
@@ -42,6 +41,53 @@ The goal of this project is to practice fundamental data engineering skills, inc
 ---
 
 ## 📊 Example Query in BigQuery
+```sql
+-- Count records after loading into BigQuery
+SELECT COUNT(*) 
+FROM `project.dataset.table`;
+
+<details>
+<summary>Klik untuk membaca versi Bahasa Indonesia</summary>
+
+---
+
+## 📌 Deskripsi
+Proyek ini adalah alur kerja **ETL (Ekstrak, Transformasi, Muat)** sederhana yang dibangun dengan **Google Colab** untuk skrip Python dan **Google BigQuery** sebagai gudang data.
+Tujuan proyek ini adalah untuk melatih keterampilan rekayasa data dasar, termasuk ekstraksi, transformasi, dan pemuatan data ke dalam gudang data.
+
+---
+
+## 🗂 Alat & Teknologi
+- **Python (Google Colab)** → Ekstrak & Transformasi  
+- **Google BigQuery** → Load & Query  
+- **Pandas** → Manipulasi Data  
+- **SQL** → Querying data dalam BigQuery
+
+---
+
+## ⚡ Alur Kerja ETL
+1. **Ekstrak** → Muat dataset (CSV dari DQLab / dataset publik)
+2. **Transformasi** → Pembersihan data, konversi tipe, agregasi sederhana
+3. **Muat** → Simpan data yang telah ditransformasi ke Google BigQuery
+4. **Analisis** → Jalankan kueri SQL di BigQuery untuk validasi
+
+---
+
+## 📂 File
+- `DQLab_ETL_Sederhana.ipynb` → Main notebook (Python + ETL pipeline)
+
+---
+
+## ▶️ Cara membuka the Notebook
+- **Lihat dalam nbviewer**:  
+  👉 [Lihat dalam nbviewer](https://nbviewer.org/github/Zidan6656/Data-Engineer/blob/main/DQLab_ETL_Sederhana%282%29.ipynb)
+
+- **Buka langsung di Google Colab**:  
+  👉 [Buka di Colab](https://colab.research.google.com/drive/1fntUZx94getrZjvY9sHkxoNS7Nvq5kGo)
+
+---
+
+## 📊 Contoh Query di BigQuery
 ```sql
 -- Count records after loading into BigQuery
 SELECT COUNT(*) 
