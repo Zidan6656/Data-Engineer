@@ -1,6 +1,6 @@
 # 🚀 Mini Project: Simple ETL with Google Colab & BigQuery
 
-**English | <details><summary>[Bahasa Indonesia](#-deskripsi-bahasa-indonesia)</summary>**
+**English |[Bahasa Indonesia](#-deskripsi-bahasa-indonesia)**
 
 ---
 
