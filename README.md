@@ -39,14 +39,6 @@ The goal of this project is to practice fundamental data engineering skills, inc
   👉 [Open in Colab](https://colab.research.google.com/drive/1fntUZx94getrZjvY9sHkxoNS7Nvq5kGo)
 
 ---
-
-## 📊 Example Query in BigQuery
-```sql
--- Count records after loading into BigQuery
-SELECT COUNT(*) 
-FROM `project.dataset.table`;
-
----
 <details>
 <summary><b>Bahasa Indonesia (klik untuk perluas)</b></summary>
 
@@ -87,9 +79,3 @@ Tujuan proyek ini adalah untuk melatih keterampilan rekayasa data dasar, termasu
   👉 [Buka di Colab](https://colab.research.google.com/drive/1fntUZx94getrZjvY9sHkxoNS7Nvq5kGo)
 
 ---
-
-## 📊 Contoh Query di BigQuery
-```sql
--- Count records after loading into BigQuery
-SELECT COUNT(*) 
-FROM `project.dataset.table`;
