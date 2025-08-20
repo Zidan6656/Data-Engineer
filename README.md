@@ -46,8 +46,9 @@ The goal of this project is to practice fundamental data engineering skills, inc
 SELECT COUNT(*) 
 FROM `project.dataset.table`;
 
+---
 <details>
-<summary>Klik untuk membaca versi Bahasa Indonesia</summary>
+<summary>Klik untuk membaca versi Bahasa Indonesia<b></summary>
 
 ---
 
