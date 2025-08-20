@@ -1,6 +1,6 @@
 # 🚀 Mini Project: Simple ETL with Google Colab & BigQuery
 
-**For Bahasa Indonesia** (See below)
+>**For Bahasa Indonesia** (See below)
 
 ---
 
