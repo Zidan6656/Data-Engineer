@@ -48,7 +48,7 @@ FROM `project.dataset.table`;
 
 ---
 <details>
-<summary>Klik untuk membaca versi Bahasa Indonesia<b></summary>
+<summary><b>Bahasa Indonesia (klik untuk perluas)</b></summary>
 
 ---
 
