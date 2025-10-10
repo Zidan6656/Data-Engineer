@@ -40,7 +40,7 @@ The goal of this project is to practice fundamental data engineering skills, inc
 
 ---
 
-##🧩 Project Summary
+## 🧩 Project Summary
 
 1️⃣ Basic ETL (DQLab_ETL_Sederhana)
 This project focuses on the fundamentals of ETL:
