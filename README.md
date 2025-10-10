@@ -39,6 +39,22 @@ The goal of this project is to practice fundamental data engineering skills, inc
   👉 [Open in Colab](https://colab.research.google.com/drive/1fntUZx94getrZjvY9sHkxoNS7Nvq5kGo)
 
 ---
+
+##🧩 Project Summary
+
+1️⃣ Basic ETL (DQLab_ETL_Sederhana)
+This project focuses on the fundamentals of ETL:
+- Reading CSV datasets in Google Colab
+- Performing basic data transformations using Pandas
+- Loading the processed data into BigQuery
+ 
+2️⃣ Intermediate ETL (DQLab_Intermediate_DE)
+A more advanced stage with a full connection to Google BigQuery:
+- Extracting data from the table etl-4414.data_warehouse.tbl_dwh_funnel
+- Transforming data through aggregation and calculations such as total_profit
+- Loading the transformed results into data_mart.tbl_summary
+
+---
 <details>
 <summary><b>Bahasa Indonesia (klik untuk perluas)</b></summary>
 
@@ -77,5 +93,21 @@ Tujuan proyek ini adalah untuk melatih keterampilan rekayasa data dasar, termasu
 
 - **Buka langsung di Google Colab**:  
   👉 [Buka di Colab](https://colab.research.google.com/drive/1fntUZx94getrZjvY9sHkxoNS7Nvq5kGo)
+
+---
+
+## 🧩 Ringkasan Proyek
+
+### 1️⃣ ETL Sederhana (DQLab_ETL_Sederhana)
+Proyek ini berfokus pada dasar-dasar ETL:
+- Membaca dataset CSV di Google Colab
+- Melakukan transformasi sederhana menggunakan Pandas
+- Menyimpan hasil ke BigQuery
+
+### 2️⃣ ETL Intermediate (DQLab_Intermediate_DE)
+Tahapan lanjutan dengan koneksi penuh ke BigQuery:
+- Extract data dari tabel `etl-4414.data_warehouse.tbl_dwh_funnel`
+- Transform data dengan agregasi dan kalkulasi seperti `total_profit`
+- Load hasil transformasi ke `data_mart.tbl_summary`
 
 ---
