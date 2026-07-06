@@ -32,8 +32,6 @@ The goal of this project is to practice fundamental data engineering skills, inc
 ---
 
 ## ▶️ How to Open the Notebook
-- **View in nbviewer**:  
-  👉 [View on nbviewer](https://nbviewer.org/github/Zidan6656/Data-Engineer/blob/main/DQLab_ETL_Sederhana%282%29.ipynb)
 
 - **Open directly in Google Colab**:  
   👉 [Open in Colab](https://colab.research.google.com/drive/19ee92yfSgTOAH0IhpDHqZDr1K07aUleD?usp=sharing)
