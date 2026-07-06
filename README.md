@@ -33,7 +33,7 @@ The goal of this project is to practice fundamental data engineering skills, inc
 
 ## ▶️ How to Open the Notebook
 
-- **Open directly in Google Colab**:  
+**Open directly in Google Colab**:  
   👉 [Open in Colab](https://colab.research.google.com/drive/19ee92yfSgTOAH0IhpDHqZDr1K07aUleD?usp=sharing)
 
 ---
